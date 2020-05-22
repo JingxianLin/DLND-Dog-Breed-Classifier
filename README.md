@@ -25,6 +25,7 @@ The main objective of this project will be to build a pipeline to process real-w
 ## Summary
 
 Several steps are taken in this project:
+
 · Import Datasets
 
 · Exploratory Data Analysis
