@@ -1,4 +1,4 @@
-# DSND-Capstone-Project
+# DLND-Dog-Breed-Classifier
 # Dog Breed Classifier
 ## Tools:
 1. tensorflow
@@ -26,9 +26,13 @@ The main objective of this project will be to build a pipeline to process real-w
 
 Several steps are taken in this project:
 · Import Datasets
+
 · Exploratory Data Analysis
+
 · Data Preprocessing
+
 · Create a CNN to Classify Dog Breeds (from Scratch)
+
 · Create a CNN to Classify Dog Breeds (using Transfer Learning)
 
 ## Acknowledgements
