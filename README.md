@@ -1,8 +1,8 @@
 # DLND-Dog-Breed-Classifier
 # Dog Breed Classifier
 ## Tools:
-1. tensorflow
-2. keras
+1. torch
+2. python
 2. panda
 3. numpy
 4. matplotlib
